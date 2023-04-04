@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "turbo run dev --parallel",
     "build": "turbo run build",
-    "deploy-storybook": "deploy-to-ghpages",
     "changeset": "changeset",
     "version-packages": "changeset version",
     "release": "turbo run build --filter=@ignite-ui/docs && changeset publish"
