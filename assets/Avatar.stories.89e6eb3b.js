@@ -1,0 +1,2 @@
+import{A as t}from"./index.48d9c81f.js";import"./index.5193b09e.js";import"./iframe.1ee38616.js";import"./index.9d925f0e.js";import"./jsx-runtime.ed58e875.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/geovaneborba.png",alt:"Geovane Borba"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.89e6eb3b.js.map
