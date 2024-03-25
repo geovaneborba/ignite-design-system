@@ -2,7 +2,7 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "yarn build",
   "devCommand": "yarn dev",
-  "installCommand": "yarn upgrade --latest",
+  "installCommand": "yarn cache clean && yarn upgrade --latest",
   "framework": null,
   "outputDirectory": "./packages/docs/storybook-static"
 }
