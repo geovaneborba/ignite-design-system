@@ -1,4 +1,4 @@
-<img src="./assets/design-system.png" alt="Imagem do banner coffee delivery" />
+<img src="./assets/design-system.png" alt="Imagem do banner do Ignite Design System" />
 
 <p align="center">
   <img alt="Repo size"  src="https://img.shields.io/github/repo-size/geovaneborba/ignite-design-system?color=4f46e5&style=for-the-badge">
@@ -20,8 +20,11 @@
 ## :dart: Sobre
 
 <p>
-  O Design System foi um projeto construído durante o módulo 5 do
-  programa de especialização Ignite da <a href='https://www.rocketseat.com.br/' target="_blank">Rocketseat</a>. Neste projeto foi implementado um design system do zero até a sua publicação.
+  Uma biblioteca de componentes React reutilizáveis, criada do zero e pronta para ser publicada como um pacote instalável (do jeito que empresas fazem com suas próprias bibliotecas internas). Os componentes são documentados e visualizados isoladamente no Storybook, e o versionamento das mudanças é controlado com Changesets.
+</p>
+
+<p>
+  Projeto construído durante o módulo 5 do programa de especialização Ignite da <a href='https://www.rocketseat.com.br/' target="_blank">Rocketseat</a>.
 </p>
 
 <p align="right">(<a href="#top">Voltar para o topo</a>)</p>
